@@ -1,9 +1,7 @@
-import React from 'react';
-
 const page = () => {
   return (
     <div>
-      <h1>This is main page or entry point</h1>
+      <h1>this is first page</h1>
     </div>
   );
 };
